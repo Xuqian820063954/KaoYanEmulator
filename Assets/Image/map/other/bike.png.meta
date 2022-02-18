@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 64a2892f1792be3428a2463ea1d96636
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5371294221566652503
+    second: bike_0
+  - first:
+      213: -2617021592792292699
+    second: bike_1
+  - first:
+      213: -2167832512034508719
+    second: bike_2
+  - first:
+      213: -4943799320217926288
+    second: bike_3
+  - first:
+      213: -5102102943687572723
+    second: bike_4
+  - first:
+      213: -8546039505883152438
+    second: bike_5
+  - first:
+      213: 2578325403477977184
+    second: bike_6
+  - first:
+      213: -1985371442852343721
+    second: bike_7
+  - first:
+      213: -1268027877934948369
+    second: bike_8
+  - first:
+      213: -1884960230279361888
+    second: bike_9
+  - first:
+      213: 7289614598119581418
+    second: bike_10
+  - first:
+      213: 449198237878770020
+    second: bike_11
+  - first:
+      213: -528114486314231494
+    second: bike_12
+  - first:
+      213: 1590570649031535310
+    second: bike_13
+  - first:
+      213: -6624673108930086456
+    second: bike_14
+  - first:
+      213: -4598211011902180313
+    second: bike_15
+  - first:
+      213: 2062007406146624485
+    second: bike_16
+  - first:
+      213: 7233658484506040423
+    second: bike_17
+  - first:
+      213: 5354448613103783169
+    second: bike_18
+  - first:
+      213: -7882623561805231828
+    second: bike_19
+  - first:
+      213: 4318282755567825792
+    second: bike_20
+  - first:
+      213: -5334066327333903368
+    second: bike_21
+  - first:
+      213: -390137249330672146
+    second: bike_22
+  - first:
+      213: 1315195353650906463
+    second: bike_23
+  - first:
+      213: 1282131023480060705
+    second: bike_24
+  - first:
+      213: 4302766594545432360
+    second: bike_25
+  - first:
+      213: -409147569729408046
+    second: bike_26
+  - first:
+      213: -8914377336400535137
+    second: bike_27
+  - first:
+      213: 6053201706318548699
+    second: bike_28
+  - first:
+      213: 5033958514292691225
+    second: bike_29
+  - first:
+      213: -6128569339385216266
+    second: bike_30
+  - first:
+      213: -4866575536736153632
+    second: bike_31
+  - first:
+      213: 2351001975232673531
+    second: bike_32
+  - first:
+      213: -6261731914202249597
+    second: bike_33
+  - first:
+      213: 3141753947516821715
+    second: bike_34
+  - first:
+      213: -2190290457750291697
+    second: bike_35
+  - first:
+      213: -7855959350416551321
+    second: bike_36
+  - first:
+      213: -8583384780092395507
+    second: bike_37
+  - first:
+      213: -605745638149097667
+    second: bike_38
+  - first:
+      213: -4582366556107510401
+    second: bike_39
+  - first:
+      213: 5227845298024434654
+    second: bike_40
+  - first:
+      213: 5313288829223130084
+    second: bike_41
+  - first:
+      213: -6108978220593987873
+    second: bike_42
+  - first:
+      213: -6076946752745234349
+    second: bike_43
+  - first:
+      213: 4952116608401875583
+    second: bike_44
+  - first:
+      213: 4918018115300547969
+    second: bike_45
+  - first:
+      213: -2316949012216416251
+    second: bike_46
+  - first:
+      213: -1937831001896587087
+    second: bike_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bike_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750b69cd2abaa8a40800000000000000
+      internalID: 5371294221566652503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bike_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a6181ab87eabd0800000000000000
+      internalID: -2617021592792292699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bike_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f3a3e0df4ae1e0800000000000000
+      internalID: -2167832512034508719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bike_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c79d26b8146bb0800000000000000
+      internalID: -4943799320217926288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bike_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d030702a760b139b0800000000000000
+      internalID: -5102102943687572723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bike_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf3167295e566980800000000000000
+      internalID: -8546039505883152438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bike_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068abad3b4d08c320800000000000000
+      internalID: 2578325403477977184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bike_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d491113b8274e0800000000000000
+      internalID: -1985371442852343721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
